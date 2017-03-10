@@ -88,6 +88,6 @@ git pull origin master
 git push origin master】
 ```
 正确输入会弹出Github登录窗口
-![github](http://odxwjay9m.bkt.clouddn.com/Github/README/QQ%E6%88%AA%E5%9B%BE20170310074052.png “github”)；
+![image](https://github.com/WARDLL/QianDuan/blob/master/screenshots/20170310074052.png)；
 
 ***
