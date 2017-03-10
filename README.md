@@ -14,8 +14,8 @@ WARDLL的前端之路
 ***
 
 
-Git的使用
-————————————————————————
+##Git的使用
+
 
 ###基本指令
 
@@ -34,7 +34,7 @@ git commit -m "文件名"
 git push origin master
 ```
 
-**
+***
 
 ###Git使用中的错误
 
@@ -90,4 +90,4 @@ git push origin master】
 正确输入会弹出Github登录窗口
 ![github](http://odxwjay9m.bkt.clouddn.com/Github/README/QQ%E6%88%AA%E5%9B%BE20170310074052.png “github”)；
 
-**
+***
